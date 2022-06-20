@@ -1,0 +1,17 @@
+{
+  "name": "vue-skeleton",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "author": "caiyong <yong.cai@kapeixi.com>",
+  "homepage": "https://nanjingcaiyong.github.io/vue-skeleton",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nanjingcaiyong/vue-skeleton"
+  },
+  "keywords": ["vue", "spa", "skeleton"],
+  "license": "ISC"
+}
